@@ -19,6 +19,7 @@ Final Year B.Tech CSE (Data Science) Student | Full Stack Developer | AI & Data 
 🤖 Currently learning **Generative AI, Agentic AI, Machine Learning and Backend Development.**
 
 📊 Interested in
+
 - Full Stack Development
 - Artificial Intelligence
 - Machine Learning
@@ -87,15 +88,13 @@ Python • Pandas • NumPy • Matplotlib • Power BI • OpenCV • MediaPipe
 
 > A Full Stack Task Management Platform built using **React, Express.js, PostgreSQL, JWT Authentication and Docker.**
 
-### Tech
-
-React • Express • PostgreSQL • Docker • REST API • JWT
+**Tech:** React • Express • PostgreSQL • Docker • REST API • JWT
 
 ---
 
 ## 🤟 Sign Language Recognition System
 
-An AI-powered Sign Language Recognition System using
+An AI-powered Sign Language Recognition System using:
 
 - TensorFlow
 - OpenCV
@@ -108,7 +107,7 @@ that converts hand gestures into readable text.
 
 ## 📊 Sales Insights Dashboard
 
-Interactive Power BI dashboard for
+Interactive Power BI dashboard for:
 
 - Sales Analysis
 - Profitability Analysis
@@ -121,17 +120,11 @@ using Power BI, SQL and Excel.
 # 📈 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=parvchaudhary040&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvchaudhary040&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=parvchaudhary040&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=parvchaudhary040&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -139,16 +132,6 @@ using Power BI, SQL and Excel.
 # 📊 Contribution Graph
 
 [![Parv's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=parvchaudhary040&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=parvchaudhary040&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</p>
 
 ---
 
@@ -168,32 +151,19 @@ using Power BI, SQL and Excel.
 
 ---
 
-# 💡 Quote of the Day
+## 🎯 Current Focus
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-# ⚡ Fun Fact
-
-```cpp
-while(!success){
-    Learn();
-    Build();
-    Improve();
-}
-```
+- Building scalable Full Stack applications
+- Exploring Generative AI & Agentic AI
+- Improving DSA and System Design
+- Contributing to Open Source
 
 ---
 
 <p align="center">
-
-![](https://komarev.com/ghpvc/?username=parvchaudhary040&label=Profile+Views&color=0e75b6&style=flat)
-
+<img src="https://komarev.com/ghpvc/?username=parvchaudhary040&label=Profile+Views&color=0e75b6&style=flat"/>
 </p>
 
 <h3 align="center">
-
 ⭐ Thanks for visiting my profile! Let's build something amazing together.
-
 </h3>
