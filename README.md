@@ -1,21 +1,199 @@
-# 💫 About Me:
-🚀 Aspiring Web Developer & Data Analyst | Tech Enthusiast | Problem Solver<br><br>👨‍💻 About Me<br><br>-> 3rd-year college student with a strong interest in Web Development and Data Analytics.<br><br>-> Passionate about building user-friendly web applications and transforming raw data into meaningful insights.<br><br>-> Curious learner who enjoys solving real-world problems through technology and data-driven thinking.<br><br>🛠️ Skills & Technologies<br><br>-> Languages: Java, Python, JavaScript<br><br>-> Web Development: HTML, CSS, JavaScript (Front-End)<br><br>-> Data Analytics: Data Cleaning, Data Visualization, Basic Statistical Analysis<br><br>-> Tools & Platforms: Git, GitHub, VS Code<br><br>-> Other Skills: Problem Solving, Analytical Thinking<br><br>🏆 Experience & Learning<br><br>-> Worked on academic and personal projects involving responsive web design and data analysis.<br><br>-> Hands-on experience in applying analytics concepts to real datasets for insights and decision-making.<br><br>-> Actively strengthening skills through continuous learning, practice, and experimentation.<br><br>💻 Projects & Contributions<br><br>-> Developed multiple front-end web projects with a focus on clean UI, responsiveness, and usability.<br><br>-> Analyzed datasets to uncover patterns and insights using Python and visualization techniques.<br><br>-> Shared and maintained projects on GitHub using version control and best practices.<br><br>🔍 Looking For<br><br>-> Internship and learning opportunities in Web Development and Data Analytics.<br><br>-> Collaborative projects that challenge my skills and contribute to real-world impact.<br><br>🤝 Let’s Connect<br><br>Always open to learning, collaborating, and growing with like-minded individuals.<br><br>Let’s build meaningful solutions and grow together 🚀
+<h1 align="center">Hi 👋, I'm Parv Chaudhary</h1>
 
+<h3 align="center">
+Final Year B.Tech CSE (Data Science) Student | Full Stack Developer | AI & Data Analytics Enthusiast
+</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/parvchaudhary040/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parv-chaudhary-6690pc/) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=parvchaudhary040&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=parvchaudhary040&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=parvchaudhary040&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=parvchaudhary040&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+Something+New+🚀" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=parvchaudhary040&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+🎓 Final Year B.Tech (CSE - Data Science) at **ABES Engineering College**
+
+💻 Passionate about building scalable web applications and AI-powered solutions.
+
+🤖 Currently learning **Generative AI, Agentic AI, Machine Learning and Backend Development.**
+
+📊 Interested in
+- Full Stack Development
+- Artificial Intelligence
+- Machine Learning
+- Data Analytics
+- Cloud Computing
+
+🌱 Currently Building
+
+- 🚀 Pulse — Full Stack Task Management Platform
+- 🤟 AI-based Sign Language Recognition System
+- 📊 Data Analytics Dashboards
+
+🎯 Looking for
+
+- Software Development Internship
+- AI/ML Internship
+- Full Stack Developer Internship
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,sql" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+### AI / Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+Python • Pandas • NumPy • Matplotlib • Power BI • OpenCV • MediaPipe
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,vercel,netlify" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🚀 Pulse
+
+> A Full Stack Task Management Platform built using **React, Express.js, PostgreSQL, JWT Authentication and Docker.**
+
+### Tech
+
+React • Express • PostgreSQL • Docker • REST API • JWT
+
+---
+
+## 🤟 Sign Language Recognition System
+
+An AI-powered Sign Language Recognition System using
+
+- TensorFlow
+- OpenCV
+- MediaPipe
+- Python
+
+that converts hand gestures into readable text.
+
+---
+
+## 📊 Sales Insights Dashboard
+
+Interactive Power BI dashboard for
+
+- Sales Analysis
+- Profitability Analysis
+- Business Insights
+
+using Power BI, SQL and Excel.
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=parvchaudhary040&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvchaudhary040&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=parvchaudhary040&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+[![Parv's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=parvchaudhary040&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=parvchaudhary040&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/parv-chaudhary-6690pc/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/parvchaudhary040/?hl=en">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote of the Day
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+# ⚡ Fun Fact
+
+```cpp
+while(!success){
+    Learn();
+    Build();
+    Improve();
+}
+```
+
+---
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=parvchaudhary040&label=Profile+Views&color=0e75b6&style=flat)
+
+</p>
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile! Let's build something amazing together.
+
+</h3>
