@@ -147,10 +147,6 @@ using Power BI, SQL and Excel.
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=parvchaudhary040&label=Profile+Views&color=0e75b6&style=flat"/>
-</p>
-
 <h3 align="center">
 ⭐ Thanks for visiting my profile! Let's build something amazing together.
 </h3>
