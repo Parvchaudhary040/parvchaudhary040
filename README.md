@@ -5,7 +5,7 @@ Final Year B.Tech CSE (Data Science) Student | Full Stack Developer | AI & Data 
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Web+Applications;Learning+Cyber+Security;Always+Learning+Something+New+🚀" />
 </p>
 
 ---
